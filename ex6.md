@@ -1,0 +1,1 @@
+this is a temporary file for Exercise 6: Renaming and Deleting a File.
